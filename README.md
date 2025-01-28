@@ -3,7 +3,7 @@ The goal is use OpenAI  via code in Python Language
 
 
 ### Use tools:
-
+- OpenAI: https://platform.openai.com/
 - Language Python: https://www.python.org/
 - Page: https://pt.wikipedia.org/wiki/Microsoft_Office
 - Library Python:
@@ -30,16 +30,30 @@ The goal is use OpenAI  via code in Python Language
 ![image](https://github.com/user-attachments/assets/9c672210-ffbc-4b82-8064-bf4ce6a5d968)
 Only need pass URL, where join in the visible text separete for space.
 
-# Using the OpenAI
-## 1 - Q & R (Question and Answer)
+## Using the OpenAI
+1 - Put key generated on the OpenAI (https://github.com/WanderBernardo/ArtificialIntelligence_OpenAI)
+![image](https://github.com/user-attachments/assets/aa5ea5ea-26d5-4252-a898-ecf61d7c4db3)
+
+# 1 - Q & R (Question and Answer)
+
+Ideal use this tools in situation that I need to take out doubt in chatbox.
+
+![image](https://github.com/user-attachments/assets/74e9f941-772f-4eb1-880c-907c67f5620b)
+
+# 2 - Summarize
+
+Ideal use this tools in situation that I need summary big text in small text.
+
+![image](https://github.com/user-attachments/assets/b4de4a23-bb0b-458f-906c-cd0021670a10)
+Reinforcing, summary create here, is with base on the dataset created with data: https://pt.wikipedia.org/wiki/Microsoft_Office
+
+# 3 - Sentiment Analysis 
+
+Ideal use this tools in opinions, reviews situations, because it rate in "Positive", "Neutral", "Negative"
+
+![image](https://github.com/user-attachments/assets/3fa1ce1b-a049-4058-97bf-e7ad3c8cf249)
 
 
-## 2 - Summarize
-
-
-## 3 - Sentiment Analysis 
-
-
-## Useful links:
-
+# Useful links:
+- https://github.com/WanderBernardo/ArtificialIntelligence_HuggingFace
 - https://github.com/WanderBernardo/ArtificialIntelligence_UsingOpenAI
